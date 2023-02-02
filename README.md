@@ -29,3 +29,10 @@ For those of us who love to travel, asking for and giving advice is one of the m
 | Switzerland | mountains, clocks and its food | 6 |
 
 ---
+## Funny Quotes
+
+> The difference between fiction and reality? Fiction has to make sense.-_Tom Clancy_-
+>       
+> The man who says his wife can't take a joke, forgets that she took him.-_Oscar Wilde_-
+
+---
