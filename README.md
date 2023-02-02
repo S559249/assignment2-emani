@@ -36,3 +36,20 @@ For those of us who love to travel, asking for and giving advice is one of the m
 > The man who says his wife can't take a joke, forgets that she took him.-_Oscar Wilde_-
 
 ---
+
+## Code Fencing
+>[Get text before certain words using regex in redshift](https://stackoverflow.com/questions/75305293/get-text-before-certain-words-using-regex-in-redshift)
+
+```
+
+---HTML
+
+<meta name="robots" content="noindex, nofollow">
+<!-- or -->
+<meta name="robots" content="none">
+<!-- or if you only care about Google... -->
+<meta name="googlebot" content="noindex, nofollow">
+
+---
+
+>[Meta Tags for Instructing Search Bots](https://css-tricks.com/snippets/html/meta-tags-for-instructing-search-bots/)
