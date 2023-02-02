@@ -38,18 +38,20 @@ For those of us who love to travel, asking for and giving advice is one of the m
 ---
 
 ## Code Fencing
->[Get text before certain words using regex in redshift](https://stackoverflow.com/questions/75305293/get-text-before-certain-words-using-regex-in-redshift)
+>[Stackoverflow question](https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe)
 
 ```
 
----HTML
-
-<meta name="robots" content="noindex, nofollow">
-<!-- or -->
-<meta name="robots" content="none">
-<!-- or if you only care about Google... -->
-<meta name="googlebot" content="noindex, nofollow">
-
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
 ---
 
->[Meta Tags for Instructing Search Bots](https://css-tricks.com/snippets/html/meta-tags-for-instructing-search-bots/)
+>[Snippet link](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
