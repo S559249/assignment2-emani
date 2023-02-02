@@ -54,4 +54,4 @@ For those of us who love to travel, asking for and giving advice is one of the m
 <iframe name="my-iframe" src="iframe.php"></iframe>
 ---
 
->[Snippet link](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
+[Snippet link](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
